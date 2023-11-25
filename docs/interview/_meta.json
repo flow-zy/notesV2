@@ -1,0 +1,16 @@
+[
+  {
+    "type": "dir",
+    "label": "前端",
+    "name": "frontend",
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "type": "dir",
+    "label": "后端",
+    "name": "backend",
+    "collapsible": true,
+    "collapsed": true
+  }
+]

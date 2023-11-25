@@ -1,0 +1,23 @@
+[
+  {
+    "type": "dir",
+    "label": "Java",
+    "name": "java",
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "type": "dir",
+    "label": "Php",
+    "name": "php",
+    "collapsible": true,
+    "collapsed": true
+  },
+  {
+    "type": "dir",
+    "label": "Node",
+    "name": "node",
+    "collapsible": true,
+    "collapsed": true
+  }
+]

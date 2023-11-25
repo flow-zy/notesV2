@@ -1,0 +1,22 @@
+[
+  {
+    "type": "file",
+    "label": "基础",
+    "name": "index"
+  },
+  {
+    "type": "file",
+    "label": "Spring",
+    "name": "Spring"
+  },
+  {
+    "type": "file",
+    "label": "SpringBoot",
+    "name": "SpringBoot"
+  },
+  {
+    "type": "file",
+    "label": "SpringCloud",
+    "name": "SpringCloud"
+  }
+]

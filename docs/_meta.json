@@ -1,0 +1,27 @@
+[
+  {
+    "text": "前端",
+    "link": "/frontend/base/html",
+    "activeMatch": "/frontend/"
+  },
+  {
+    "text": "后端",
+    "link": "/backend/java/index",
+    "activeMatch": "/backend/"
+  },
+  {
+    "text": "数据库",
+    "link": "/database/MySql",
+    "activeMatch": "/database/"
+  },
+  {
+    "text": "随笔人生",
+    "link": "/problem/custom",
+    "activeMatch": "/problem/"
+  },
+  {
+    "text": "面试题",
+    "link": "/interview/",
+    "activeMatch": "/interview/"
+  }
+]
