@@ -2,14 +2,14 @@
   {
     "type": "dir",
     "label": "前端",
-    "name": "frontend",
+    "name": "interview_frontend",
     "collapsible": true,
     "collapsed": true
   },
   {
     "type": "dir",
     "label": "后端",
-    "name": "backend",
+    "name": "interview_backend",
     "collapsible": true,
     "collapsed": true
   }

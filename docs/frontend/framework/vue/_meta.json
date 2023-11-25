@@ -23,10 +23,5 @@
     "type": "file",
     "name": "v2源码",
     "label": "v2源码"
-  },
-  {
-    "type": "file",
-    "name": "源码解析",
-    "label": "源码解析"
   }
 ]
