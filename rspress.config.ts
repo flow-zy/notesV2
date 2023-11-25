@@ -1,7 +1,7 @@
 import * as path from 'path';
 import { defineConfig } from 'rspress/config';
 export default defineConfig({
-	base: process.env.NODE_ENV == 'development' ? '' : '/notes2/',
+	base: process.env.NODE_ENV == 'development' ? '' : '/notesV2/',
 	root: path.join(__dirname, 'docs'),
 	title: 'ZY的学习笔记',
 	description: '在这里你可以找到大部分的前端编程知识',
