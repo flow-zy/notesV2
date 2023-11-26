@@ -5,5 +5,12 @@
     "name": "interview_frontend",
     "collapsible": true,
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "label": "后端",
+    "name": "interview_backend",
+    "collapsible": true,
+    "collapsed": true
   }
 ]
